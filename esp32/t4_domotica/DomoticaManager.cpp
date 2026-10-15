@@ -12,13 +12,12 @@ void DomoticaManager::begin() {
     pinMode(pinLED, OUTPUT);
     digitalWrite(pinLED, LOW);
 
-    // Inicializar Servo en ESP32
-    ESP32Servo::allocateTimer(0);
+    // Inicializar Servo en ESP32 (la librería maneja los timers automáticamente)
     servoPuerta.setPeriodHertz(50);
     servoPuerta.attach(pinServo, 500, 2400);
     servoPuerta.write(0); // Posición inicial cerrada
 
-    // Inicializar Sistema de Archivos LittleFS para los registros[cite: 1, 4]
+    // Inicializar Sistema de Archivos LittleFS para los registros
     if (!LittleFS.begin(true)) {
         Serial.println("[!] Error al montar LittleFS");
     } else {
