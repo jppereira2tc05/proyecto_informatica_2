@@ -1,0 +1,8 @@
+11:45:31 - Luz 1 - Encendida desde consola
+11:45:32 - Luz 1 - Apagada desde consola
+11:45:33 - Luz 2 - Encendida desde consola
+11:45:33 - Luz 2 - Apagada desde consola
+11:45:34 - Luz 3 - Encendida desde consola
+11:45:34 - Luz 3 - Apagada desde consola
+11:45:35 - Luz 4 - Encendida desde consola
+11:45:35 - Luz 4 - Apagada desde consola
