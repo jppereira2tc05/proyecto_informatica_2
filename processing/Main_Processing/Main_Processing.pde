@@ -15,7 +15,7 @@ void setup() {
   
   // Muestra los puertos disponibles en la consola abajo
   printArray(Serial.list()); 
-  String puertoNombre = Serial.list()[0]; // O ajusta el índice si usas otro puerto
+  String puertoNombre = Serial.list()[1]; // O ajusta el índice si usas otro puerto
   puertoSerial = new Serial(this, puertoNombre, 115200);
   puertoSerial.bufferUntil('\n'); // Espera al salto de línea para leer el paquete completo
   

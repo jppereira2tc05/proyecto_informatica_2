@@ -6,3 +6,81 @@
 11:45:34 - Luz 3 - Apagada desde consola
 11:45:35 - Luz 4 - Encendida desde consola
 11:45:35 - Luz 4 - Apagada desde consola
+10:48:57 - Luz 1 - Encendida desde consola
+10:49:1 - Luz 1 - Apagada desde consola
+10:49:3 - Luz 2 - Encendida desde consola
+10:49:5 - Luz 2 - Apagada desde consola
+10:49:6 - Luz 3 - Encendida desde consola
+10:49:8 - Luz 3 - Apagada desde consola
+10:49:10 - Luz 4 - Encendida desde consola
+10:49:11 - Luz 4 - Apagada desde consola
+10:50:44 - Alarma Armada físicamente
+10:50:46 - Alarma Desarmada
+10:50:48 - Luz 1 - Encendida desde consola
+10:50:49 - Luz 2 - Encendida desde consola
+10:50:50 - Luz 3 - Encendida desde consola
+10:50:51 - Luz 4 - Encendida desde consola
+10:50:57 - Luz 1 - Apagada desde consola
+10:50:58 - Luz 2 - Apagada desde consola
+10:50:59 - Luz 3 - Apagada desde consola
+10:51:1 - Luz 4 - Apagada desde consola
+10:51:11 - Alarma Armada físicamente
+10:51:19 - Alarma Desarmada
+10:52:20 - Alarma Armada físicamente
+10:52:23 - Alarma Desarmada
+10:52:29 - Luz 1 - Encendida desde consola
+10:52:32 - Luz 2 - Encendida desde consola
+10:52:33 - Luz 3 - Encendida desde consola
+10:52:34 - Luz 4 - Encendida desde consola
+10:52:36 - Luz 1 - Apagada desde consola
+10:52:37 - Luz 2 - Apagada desde consola
+10:52:37 - Luz 3 - Apagada desde consola
+10:52:39 - Luz 4 - Apagada desde consola
+10:52:40 - Luz 2 - Encendida desde consola
+10:52:41 - Luz 4 - Encendida desde consola
+10:52:42 - Luz 4 - Apagada desde consola
+10:52:43 - Luz 2 - Apagada desde consola
+10:52:49 - Alarma Armada físicamente
+10:54:4 - Luz 1 - Encendida desde consola
+10:54:5 - Luz 1 - Apagada desde consola
+10:54:16 - Sensor PIR: Movimiento detectado
+10:54:23 - Sensor PIR: Movimiento detectado
+10:54:29 - Sensor PIR: Movimiento detectado
+10:54:34 - Alarma Armada físicamente
+10:54:35 - ¡ALARMA DISPARADA (Intrusión)!
+10:54:35 - Sensor PIR: Movimiento detectado
+10:54:46 - Alarma Desarmada
+10:54:49 - Alarma Armada físicamente
+10:54:51 - ¡ALARMA DISPARADA (Intrusión)!
+10:54:51 - Sensor PIR: Movimiento detectado
+10:54:57 - Alarma Desarmada
+10:54:57 - Sensor PIR: Movimiento detectado
+10:55:3 - Sensor PIR: Movimiento detectado
+10:56:18 - Luz 1 - Encendida desde consola
+10:56:20 - Luz 2 - Encendida desde consola
+10:56:20 - Luz 3 - Encendida desde consola
+10:56:21 - Luz 4 - Encendida desde consola
+10:56:22 - Luz 3 - Apagada desde consola
+10:56:23 - Luz 2 - Apagada desde consola
+10:56:23 - Luz 1 - Apagada desde consola
+10:56:24 - Luz 4 - Apagada desde consola
+10:56:27 - Sensor PIR: Movimiento detectado
+10:56:33 - Alarma Armada físicamente
+10:56:36 - ¡ALARMA DISPARADA (Intrusión)!
+10:56:36 - Sensor PIR: Movimiento detectado
+10:56:44 - Alarma Desarmada
+10:56:50 - Luz 1 - Encendida desde consola
+10:56:51 - Sensor PIR: Movimiento detectado
+10:56:52 - Luz 2 - Encendida desde consola
+10:56:53 - Luz 3 - Encendida desde consola
+10:56:54 - Luz 4 - Encendida desde consola
+10:56:56 - Sensor PIR: Movimiento detectado
+10:57:5 - Alarma Armada físicamente
+10:57:7 - ¡ALARMA DISPARADA (Intrusión)!
+10:57:7 - Sensor PIR: Movimiento detectado
+10:57:13 - Alarma Desarmada
+10:57:16 - Luz 4 - Apagada desde consola
+10:57:16 - Luz 3 - Apagada desde consola
+10:57:17 - Luz 2 - Apagada desde consola
+10:57:17 - Luz 1 - Apagada desde consola
+10:57:19 - Sensor PIR: Movimiento detectado
